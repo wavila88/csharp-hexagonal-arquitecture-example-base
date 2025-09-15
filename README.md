@@ -1,6 +1,10 @@
 # CSHARP Hexagonal Architecture Example 🎯
 
 This is a base project implementing Hexagonal Architecture.  It can be copied and modified according to your specific needs, demonstrates how to implement **Hexagonal Architecture (Ports & Adapters)** in a C# application using .NET. The goal is to clearly separate business logic from infrastructure concerns, making the system more scalable, testable, and maintainable.
+## Diagram
+
+![hexagonalArquitecture](https://github.com/user-attachments/assets/eadfef19-bcbb-4b3f-9fad-674611170ed8)
+
 
 ## 🧱 Project Structure
 
