@@ -5,6 +5,9 @@ This is a base project implementing Hexagonal Architecture.  It can be copied an
 
 ![hexagonalArquitecture](https://github.com/user-attachments/assets/eadfef19-bcbb-4b3f-9fad-674611170ed8)
 
+## Youtube Video
+
+[Link Youtube Video](https://youtu.be/-VZeZYS6MZA)
 
 ## 🧱 Project Structure
 
